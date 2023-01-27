@@ -1,5 +1,5 @@
 # Snay3i-App
-Get home maintenance services !
+Get home maintenance services easily !
 ## General Info
 Snaye' app is made to offer home maintenance services in Palestine .
 
